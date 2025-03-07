@@ -10,5 +10,13 @@
 
 Heute habe ich gemeinsam mit Sinan Gerwig an den Aufträgen für das HZ2 im Modul 114 gearbeitet. Anschliessend haben wir nochmals die Theorie repetiert aus dem Modul 295 und uns vorbereitet für die LB.
 
-- [ ] Arbeit an Aufträgen für Modul 114 (HZ3)
-- [ ] Vertiefung Theorie für Modul 295
+- [x] Arbeit an Aufträgen für Modul 114 (HZ3)
+- [x] Vertiefung Theorie für Modul 295
+
+^Reflexion über Teams
+
+## Arbeitspakete 07.03.2025
+
+- [ ] Arbeit für Abgaben von HZ3 im Modul 114
+- [ ] Nacharbeiten Aufträge Modul 259
+- [ ] Anfangen mit eigenem Projekt wo ich eine Website erstelle auf der ich meine Coding Projekte präsentieren kann.
