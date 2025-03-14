@@ -28,6 +28,13 @@ Dazu habe ich angefangen mit der Planung von meiner Portfolio Website. Ich habe 
 
 ## Arbeitspakete 14.03.2025
 
-- [ ] Landing Page für meine Portfolio Website gestalten.
+- [x] Landing Page für meine Portfolio Website gestalten.
 - [ ] Modul 114 HZ4 Auftrag
-- [ ] 
+
+Ich konnte heute erfolgreich die Landing Page auf meiner Portfolio Website erstellen. 
+
+
+## Arbeitspakete 21.03.2025 
+
+- [ ] Mock für Subpages auf Portfolio Website erstellen
+- [ ] Modul 114 HZ4 Aufträge
