@@ -36,5 +36,7 @@ Ich konnte heute erfolgreich die Landing Page auf meiner Portfolio Website erste
 
 ## Arbeitspakete 21.03.2025 
 
-- [ ] Mock für Subpages auf Portfolio Website erstellen
-- [ ] Modul 114 HZ4 Aufträge
+- [x] Mock für Subpages auf Portfolio Website erstellen
+- [x] Modul 114 HZ4 Aufträge
+
+Ich konnte heute die beiden geplanten Arbeitspakete erfolgreich erfüllen. Ich habe alle Aufträge für das Modul 114 fertig gemacht und meine Website hat nun alle Subpages.
