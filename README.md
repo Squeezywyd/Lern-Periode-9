@@ -54,4 +54,5 @@ Ich konnte heute die beiden geplanten Arbeitspakete erfolgreich erfüllen. Ich h
 
 ## Reflexion
 
-Heute war der letzte Tag der Lernperiode 9 und ich konnte während dieser LP sehr gut arbeiten. Meine Webseite ist leider noch nicht ganz fertig aber ich werde auch noch in der nächsten LP daran arbeiten.
+Heute war der letzte Tag der Lernperiode 9 und ich konnte während dieser LP sehr gut arbeiten. Meine Webseite ist leider noch nicht ganz fertig aber ich werde auch noch in der nächsten LP daran arbeiten. Die Arbeitspakete von konnte ich Plangerecht erfüllen und meine Webseite sieht schon ziemlich gut aus. 
+Für die nächste Periode habe ich mir vorgenommen, mich an die Funktionalität und auch um das Backend der Webseite zu kümmern um schlussendlich eine vollständig funktionsfähige Webseite zu haben, welche ich jeweils in meinen Bewerbungsprozessen angeben kann.
