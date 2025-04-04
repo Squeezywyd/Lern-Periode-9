@@ -40,3 +40,18 @@ Ich konnte heute erfolgreich die Landing Page auf meiner Portfolio Website erste
 - [x] Modul 114 HZ4 Aufträge
 
 Ich konnte heute die beiden geplanten Arbeitspakete erfolgreich erfüllen. Ich habe alle Aufträge für das Modul 114 fertig gemacht und meine Website hat nun alle Subpages.
+
+## Arbeitspakete 28.03.2025
+- [x] Subpages überarbeiten.
+- [x] Teilauftrag 2 für LB 259
+
+## Arbeitspakete 04.04.2025
+
+- [x] C# Projekte auf Projekte Subpage einfügen.
+- [x] C# überarbeiten, damit diese vollständig und korrekt sind.
+- [x] Teilauftrag 3 LB259
+
+
+## Reflexion
+
+Heute war der letzte Tag der Lernperiode 9 und ich konnte während dieser LP sehr gut arbeiten. Meine Webseite ist leider noch nicht ganz fertig aber ich werde auch noch in der nächsten LP daran arbeiten.
